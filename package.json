@@ -1,0 +1,29 @@
+{
+  "name": "@tschallacka/oc.foundation.dispose_controls",
+  "version": "1.0.0",
+  "description": "A helperfunction to call 'dispose-control' event handler on elements marked with '[data-disposeable]'",
+  "main": "oc.foundation.dispose_controls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_oc.foundation.dispose_controls.git"
+  },
+  "keywords": [
+    "october",
+    "foundation",
+    "jquery",
+    "disposable"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "@tschallacka/oc.foundation.controlutils": "*"
+  },
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_oc.foundation.dispose_controls/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_oc.foundation.dispose_controls#readme"
+}
